@@ -1,0 +1,22 @@
+[
+    {
+        "Nombre": "Maza",
+        "Color": "Verde",
+        "fruteria": "Frutas Paqui",
+        "Fichero": "manzana.jpeg",
+        "descripcion": "riquisima"
+    },
+    {
+        "Nombre": "Fresa",
+        "Color": "Rojo",
+        "fruteria": "Frutas Pili",
+        "Fichero": "fresa.jpeg",
+        "descripcion": "sabrosa"
+    },
+    {
+        "Nombre": "Mandarina",
+        "Color": "Naranja",
+        "fruteria": "Frutas Jose",
+        "Fichero": "mandarina.jpeg",
+        "descripcion": "fresquita"
+    }]
